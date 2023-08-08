@@ -1,5 +1,5 @@
 # AAAI24 Game-Theoretic Unlearnable Example Generator
-This is the official repository for "Game-Theoretic Unlearnable Example Generator". This repository contains an implementation of the different poiosn attacks and adversarial training on poisoned datasets.
+This is the official repository for "Game-Theoretic Unlearnable Example Generator". This repository contains an implementation of GUE and evaluation on poisoned datasets.
 ## Requirements:  
 * Python 3.11.3
 * PyTorch 2.0.1

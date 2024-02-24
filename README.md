@@ -1,4 +1,4 @@
-# AAAI24 [Paper] (https://arxiv.org/abs/2401.17523
+# AAAI24 [Paper](https://arxiv.org/abs/2401.17523
 This is the official repository for "Game-Theoretic Unlearnable Example Generator"). This repository contains an implementation of GUE and evaluation on poisoned datasets.
 ## Requirements:  
 * Python 3.11.3
